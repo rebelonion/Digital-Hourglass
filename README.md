@@ -7,7 +7,7 @@ This started out as a college project that I went a little overboard for. It tur
 
 Also, **This is very much still a awork in progress**
 
-<img src="https://s11.gifyu.com/images/ezgif-3-dc91cbdd8c.gif" width="200" height="400">
+<img src="https://s11.gifyu.com/images/ezgif-3-dc91cbdd8c.gif" width="200">
 
 
 ## Features
