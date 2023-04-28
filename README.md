@@ -7,7 +7,7 @@ This started out as a college project that I went a little overboard for. It tur
 
 Also, **This is very much still a awork in progress**
 
-<img src="https://github.com/rebelonion/Digital-Hourglass/Pictures/gif.gif">
+<img src="https://github.com/rebelonion/Digital-Hourglass/blob/main/Pictures/gif.gif">
 
 
 ## Features
